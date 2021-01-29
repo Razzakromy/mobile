@@ -1,0 +1,71 @@
+
+@media screen and (max-width:768px){
+  .templete{ width: 768px;}
+  .mainmenu {margin: 25px 0;}
+  .title {margin: -11px 22px;}
+  .maintop {margin: 10px 127px;}
+  .maintop p {text-align: center;}
+  .desc {width: 256px;}
+  .desc h2 { padding-bottom: 18px; width: 204px; margin-left: 24px; margin-top: 5px;}
+  .desc p {margin-top: 30px;}
+  .descimage {width: 317px;}
+  .descimage img {width: 286px;margin-top: 65px;}
+  .samearticle h2 {width: 130px;font-size: 21px;}
+  .samearticle {width: 182px;margin: 31px 15px 25px 5px;padding: 13px 7px;}
+  .post {margin-left: 15px;}
+  .postlink {width: 132px;padding: 4px;}
+  .postlink a {font-size: 13px;}
+}
+
+@media  screen and (max-width:480px){
+  .templete{width: 480px;}
+  .title { width: 480px; margin: -20px 87px;}
+  .mainmenu { width: 463px; margin: -4px -10px;}
+  .maintop { margin: 10px 65px;}
+  .maintop p { font-size: 25px;}
+  .maintop h2 { font-size: 25px;}
+  .mainmidp { font-size: 17px; margin-top: 4px;}
+  .desc { width: 297px;}
+  .desc h2 { padding-bottom: 18px; width: 255px; margin-left: 24px; margin-top: 5px;}
+  .maindesc { height: 100%;}
+  .descimage { width: 333px;}
+  .descimage img { width: 286px; margin-top: -7px; margin-bottom: 27px; box-shadow: none;}
+  .post { margin-left: 5px;}
+  .samearticle { width: 353px; margin: 15px 15px 15px 5px;}
+  .samearticle h2 { width: 300px; font-size: 21px;}
+  .postlink { width: 330px; padding: 4px; margin-bottom: 11px;}
+}
+
+@media screen and (max-width:360px){
+  .templete{width: 360px;}
+  .title {width: 100%; text-align: center; margin-left: 0;}
+  .mainmenu { width: 100%;}
+  .mainmenu a { padding: 0px 5px; font-size: 12px;}
+  .maintop { margin: 3px 25px;}
+  .maintop h2 { font-size: 22px;}
+  .maintop p { font-size: 24px;}
+  .desc { width: 100%; padding: 10px 0px;}
+  .desc h2 { padding-bottom: 18px; width: 213px; margin-left: 24px; margin-top: 12px;}
+  .desc p { margin-top: -13px;}
+  .descimage { width: 275px;}
+  .postlink { width: 84%; padding: 4px; margin-bottom: 11px;}
+  .samearticle h2 { width: 210px; font-size: 21px;}
+  .samearticle { width: 100%; margin: 15px 15px 15px 5px; padding: 13px 0px;}
+  .post { margin-left: -3px;}
+}
+
+@media screen and (max-width:320px) {
+  .templete{width: 320px;}
+  .mainmenu a { padding: 0px 3px; font-size: 11px;}
+  .maintop { margin: 3px 6px;}
+  .maintop p { font-size: 22px;}
+  .mainmidp { font-size: 15px; margin-top: 4px; line-height: 21px;}
+  .desc h2 { padding-bottom: 15px; width: 173px; margin-left: 24px; margin-top: 7px; font-size: 28px;}
+  .desc p { line-height: 17px; font-size: 15px;}
+  .descimage { width: 232px;}
+  .descimage img { width: 239px; margin-top: -7px; margin-bottom: 18px;}
+  .samearticle h2 { width: 177px; font-size: 21px;}
+  .samearticle p { font-size: 14px; line-height: 17px; color: #fff;}
+  .postlink { width: 88%; padding: 0; margin-bottom: 8px; text-align: center; margin-left: 12px;}
+  .footsection { font-size: 12px; line-height: 15px;}
+}
